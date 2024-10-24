@@ -2,10 +2,15 @@
 
 <h4> Assignment-1 : PDF Generation </h4>
         In this assingment the whole task is completed where the important information is that 
+        </br>
         Request URL : POST : "http://localhost:8080/assingment_1/invoicerequest/addinvoicerequest"
+        </br>
         I used the Postman Platform to test the Api.
+        </br>
         to hit the URL the the JSON data 
+        </br>
         for eg :  
+        </br>
                     {
                         "seller": "XYZ Pvt. Ltd.",
                         "sellerGstin": "29AABBCCDD121ZD",
@@ -32,5 +37,6 @@
 <h4> Assignment-2 : Pincode Distance </h4>
         In this assingment I completed the whole coading part but the issue is to occure is the
         Google-Map apikey need for the payement or it's billable so that the only task is pending
+        </br>
         Request URL : POST : "http://localhost:8080/assingment_2/api/routes"
         
