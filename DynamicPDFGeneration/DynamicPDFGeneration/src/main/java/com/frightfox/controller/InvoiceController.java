@@ -28,6 +28,7 @@ public class InvoiceController {
 	@Autowired
 	private IPDFServise pdfService;
 	
+	/* http://localhost:8080/assingment_1/invoicerequest/addinvoicerequest */
 	@PostMapping("addinvoicerequest")
 	public ResponseEntity<byte[]> addInvoiceRequest(@RequestBody InvoiceRequest invoiceRequest) {
 		try {	
