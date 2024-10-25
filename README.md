@@ -33,10 +33,17 @@
                                     }
                                 ]
                     }
-
+</br></br>
 <h4> Assignment-2 : Pincode Distance </h4>
         In this assingment I completed the whole coading part but the issue is to occure is the
         Google-Map apikey need for the payement or it's billable so that the only task is pending
         </br>
         Request URL : POST : "http://localhost:8080/assingment_2/api/routes"
-        
+</br></br>
+<h4> Assignment-3 : Weather Info for Pincode </h4>
+        In this assingment the whole task is completed where the important information is that
+        </br>
+        Request URL : GET : "http://localhost:8080/api/weather?pincode=411014&forDate=2020-10-15"
+         </br>
+        I used the Postman Platform to test the Api.
+        </br>
