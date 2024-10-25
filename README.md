@@ -53,6 +53,6 @@
         Google-Map apikey need for the payement or it's billable so that the only task is pending
         </br>
         <strong>For the Searching </strong></br>
-            Request URL : POST : "http://localhost:8080/assingment_4/api/files/search?userName=sandy&searchTerm=logistics"</br></br>
+            Request URL : POST : "http://localhost:8080/assingment_4/api/files/search?userName=sandy&searchTerm=logistics"</br>
         <strong>For the Downloading </strong></br>
             Request URL : GET : "http://localhost:8080/assingment_4//api/files/download?userName=sandy&fileName=logistics_report.pdf"
